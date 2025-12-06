@@ -1,8 +1,10 @@
 
-# Riya Choudhary
-### B.Tech CSE (Data Analytics) • 1st Year
 
- reflects learning, structure, and calm aesthetics.
+
+
+# Riya Choudhary
+### B.Tech CSE (Data Analytics) •
+
 
 ---
 
@@ -13,11 +15,15 @@
 - Interested in clean UI, logical coding, and beginner‑friendly projects
 
 ---
-
-## Skills
+### 🧠 Skills  
 **Languages:** C, Python, HTML, CSS  
-**Tools:** GitHub, VS Code
+**Tools:** GitHub, VS Code  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,vscode,github&theme=light&perline=6" />
+</p>
+
+---
 ---
 
 ## Current Projects
@@ -41,5 +47,5 @@
 </p>
 
 <p align="center" style="font-size: 14px; color: #b87a9b;">
-
+Designed with a minimalist aesthetic
 </p>
