@@ -47,5 +47,5 @@
 </p>
 
 <p align="center" style="font-size: 14px; color: #b87a9b;">
-Designed with a minimalist aesthetic
+
 </p>
