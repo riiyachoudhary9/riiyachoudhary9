@@ -16,7 +16,7 @@
 
 ---
 ### 🧠 Skills  
-**Languages:** C, Python, HTML, CSS  
+**Languages:** C,c++, Python, HTML, CSS  
 **Tools:** GitHub, VS Code  
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 
 ## Learning Goals
-- Strengthen C programming foundations
+- Strengthen C programming and c++ foundations
 - Create cleaner web layouts
 - Practice Python regularly
 - Build small but complete projects
